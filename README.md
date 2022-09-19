@@ -1,1 +1,2 @@
 "# LaravelInternetMagazin" 
+# LaravelInternetMagazin
